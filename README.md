@@ -57,21 +57,15 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
-  alt="Donald Mwanga's GitHub stats"
-/>
+<a href="https://github.com/TheDonDev">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Donald Mwanga's GitHub stats" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/TheDonDev">
+  <img height="180" src="https://streak-stats.demolab.com?user=TheDonDev&theme=dracula&hide_border=true" alt="Donald Mwanga's GitHub contribution streak" />
+</a>
 
-<!-- Contribution Streak -->
-<img
-  height="180em"
-  src="https://streak-stats.demolab.com?user=TheDonDev&theme=dracula&hide_border=true"
-  alt="Donald Mwanga's GitHub contribution streak"
-/>
-
-<br/><br/>
+</div>
 
 <!-- Most Used Languages -->
 <img
