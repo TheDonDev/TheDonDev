@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31,42&height=220&section=header&text=Hi%20👋,%20I'm%20Donald%20Mwanga%20Makori&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31,42&height=220&section=header&text=Hi%20👋,%20I'm%20Donald%20Mwanga%20Makori&fontSize=38&fontColor=[...]
 
 ### ⚡ Software Engineer • Developer • Social Enterprenuer
 📍 **Nairobi, Kenya** 🇰🇪
@@ -10,7 +10,7 @@
 
 <!-- Typing Intro SVG -->
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Scalable+Software;Engineering+Creative+Solutions;Tech+Content+Creation;Open+Source+%26+Community" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Scalable+Software;Enginee[...]" />
 </a>
 
 <br/><br/>
@@ -18,7 +18,7 @@
 [![Portfolio](https://img.shields.io/badge/Website-thedondev.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://thedondev.netlify.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-@TheDon__Dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheDon_Dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Donald%20Mwanga-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/donald-mwanga-4bb5abba)
-[![YouTube](https://img.shields.io/badge/YouTube-@thadon-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thadon)
+[![YouTube](https://img.shields.io/badge/YouTube-@thadon__100-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thadon_100)
 
 </div>
 
@@ -53,26 +53,24 @@
 </div>
 
 ---
+
 ### 📊 GitHub Analytics & Streak
 
 <div align="center">
-
-<a href="https://github.com/TheDonDev">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Donald Mwanga's GitHub stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/TheDonDev">
-  <img height="180" src="https://streak-stats.demolab.com?user=TheDonDev&theme=dracula&hide_border=true" alt="Donald Mwanga's GitHub contribution streak" />
-</a>
-
+  <a href="https://github.com/TheDonDev">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Donald Mwanga's GitHub stats" />
+  </a>
+  <a href="https://github.com/TheDonDev">
+    <img height="180" src="https://streak-stats.demolab.com?user=TheDonDev&theme=dracula&hide_border=true" alt="Donald Mwanga's GitHub contribution streak" />
+  </a>
 </div>
 
 <!-- Most Used Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDonDev&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=html,css"
-  alt="Top programming languages"
-/>
-
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDonDev&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=html,css"
+    alt="Top programming languages"
+  />
 </div>
 
 ---
@@ -80,7 +78,7 @@
 ### 📹 Latest YouTube Videos / Activity
 <!-- RECENT_YOUTUBE_VIDEOS:START -->
 <!-- This section will automatically update if you configure the GitHub Action workflow below -->
-- 🎥 Check out my latest videos on YouTube: [@thadon](https://www.youtube.com/@thadon)
+- 🎥 Check out my latest videos on YouTube: [@thadon_100](https://www.youtube.com/@thadon_100)
 <!-- RECENT_YOUTUBE_VIDEOS:END -->
 
 ---
@@ -116,7 +114,7 @@
 <a href="https://www.linkedin.com/in/donald-mwanga-4bb5abba" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://www.youtube.com/@thadon" target="_blank">
+<a href="https://www.youtube.com/@thadon_100" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
