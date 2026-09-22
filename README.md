@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31,42&height=220&section=header&text=Hi%20👋,%20I'm%20Donald%20Mwanga%20Makori&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 ### ⚡ Software Engineer • Developer • Content Creator
-          📍 **Nairobi, Kenya** 🇰🇪
+📍 **Nairobi, Kenya** 🇰🇪
 
 ---
 
@@ -53,18 +53,31 @@
 </div>
 
 ---
-
 ### 📊 GitHub Analytics & Streak
 
 <div align="center">
 
-| 📈 Stats | 🚀 Contribution Streak |
-| :---: | :---: |
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> | <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheDonDev&theme=dracula" /> |
+<!-- GitHub Stats -->
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
+  alt="Donald Mwanga's GitHub stats"
+/>
 
-<br/>
+<!-- Contribution Streak -->
+<img
+  height="180em"
+  src="https://streak-stats.demolab.com?user=TheDonDev&theme=dracula&hide_border=true"
+  alt="Donald Mwanga's GitHub contribution streak"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDonDev&layout=compact&theme=dracula&hide=html,css" />
+<br/><br/>
+
+<!-- Most Used Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDonDev&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=html,css"
+  alt="Top programming languages"
+/>
 
 </div>
 
