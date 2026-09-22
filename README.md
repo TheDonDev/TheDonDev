@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31,42&height=220&section=header&text=Hi%20👋,%20I'm%20Donald%20Mwanga%20Makori&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 ### ⚡ Software Engineer • Developer • Content Creator
-📍 **Nairobi, Kenya** 🇰🇪 | 🏢 **@Konza-Silicon-Savannah**
+          📍 **Nairobi, Kenya** 🇰🇪
 
 ---
 
