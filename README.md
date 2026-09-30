@@ -92,12 +92,42 @@
 
 <br/><br/>
 
-<details>
-  <summary><b>🔥 Click for a Random Dev Meme</b></summary>
+</div>
+
+---
+
+### 🎭 Random Dev Meme
+
+<div align="center">
+
+<details open>
+  <summary style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: bold; font-size: 16px; transition: all 0.3s ease;">
+    <span style="display: flex; align-items: center; gap: 8px; justify-content: center;">
+      🔥 <span id="meme-toggle-text">Show Me a Meme</span>
+    </span>
+  </summary>
+  
   <br/>
-  <img src="https://raw.githubusercontent.com/joshwcomeau/giscus/main/public/meme.gif" alt="Dev Meme" width="400" />
-  <br/>
+  
+  <div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 20px; border-radius: 8px; margin: 15px auto; max-width: 500px; border: 2px solid #667eea;">
+    <img src="https://raw.githubusercontent.com/joshwcomeau/giscus/main/public/meme.gif" alt="Dev Meme" width="100%" style="border-radius: 6px; display: block;" />
+  </div>
+  
 </details>
+
+<script>
+  // Toggle text on click (for modern browsers)
+  document.querySelectorAll('details').forEach(detail => {
+    detail.addEventListener('toggle', () => {
+      const text = document.getElementById('meme-toggle-text');
+      if (detail.open) {
+        text.textContent = 'Hide Meme 😄';
+      } else {
+        text.textContent = 'Show Me a Meme';
+      }
+    });
+  });
+</script>
 
 </div>
 
