@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31,42&height=220&section=header&text=Hi%20👋,%20I'm%20Donald%20Mwanga%20Makori&fontSize=38&fontColor=ffffff" alt="Donald Mwanga Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31,42&height=220&section=header&text=Hi%20👋,%20I'm%20Donald%20Mwanga%20Makori&fontSize=38&fontColor=fff" width="100%" alt="Header" />
 
 ### ⚡ Software Engineer • Developer • Social Entrepreneur
 📍 **Nairobi, Kenya** 🇰🇪
@@ -9,7 +9,7 @@
 ---
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Scalable+Software;Engineering+Clean+Solutions;Turning+Ideas+into+Impact;Building+for+the+Web+and+Cloud" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Scalable+Software;Engineering+Tomorrow's+Solutions;Full-Stack+Developer;Cloud+Architect" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -29,7 +29,7 @@
 - 🤖 **Specialization**: Software Engineering, Cloud Solutions, and Content Creation.
 - 👯 **Looking to collaborate on**: Open-source tools, full-stack web applications, and creative tech projects.
 - 👨‍💻 **Portfolio**: Live at [thedondev.netlify.app](https://thedondev.netlify.app/).
-- ⚡ **Fun Fact**: *"Code is like humor. When you have to explain it, it’s bad."* — Building solutions that speak for themselves.
+- ⚡ **Fun Fact**: *"Code is like humor. When you have to explain it, it's bad."* — Building solutions that speak for themselves.
 
 ---
 
@@ -54,7 +54,7 @@
 <div align="center">
 
   <a href="https://github.com/TheDonDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="Donald Mwanga's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
   </a>
 
   <a href="https://github.com/TheDonDev">
@@ -80,11 +80,15 @@
 
 ---
 
-### ✍️ Random Dev Quote & Meme
+### ✍️ Random Dev Quote
 
 <div align="center">
 
-<img src="https://readme-daily-quotes.vercel.app/api?author=true&theme=dracula" alt="Dev Quote" />
+<img src="https://api.quotable.io/random?format=text&minLength=100" alt="Dev Quote" width="500" />
+
+<br/><br/>
+
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
 
 <br/><br/>
 
