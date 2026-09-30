@@ -28,7 +28,7 @@
 - 🔭 **Currently working on**: Scalable web architectures and modern web software.
 - 🤖 **Specialization**: Software Engineering, Cloud Solutions, and Content Creation.
 - 👯 **Looking to collaborate on**: Open-source tools, full-stack web applications, and creative tech projects.
-- 👨‍💻 **Portfolio**: Live at [thedondev.netlify.app](https://thedondev.netlify.app/).
+- 👨‍💻 **Portfolio**: Live at [donaldmwangamakori.netlify.app](https://donaldmwangamakori.netlify.app/contact).
 - ⚡ **Fun Fact**: *"Code is like humor. When you have to explain it, it's bad."* — Building solutions that speak for themselves.
 
 ---
