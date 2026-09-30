@@ -187,13 +187,19 @@ Topics covered:
 
 ---
 
-## 📊 Contribution Graph
+## 📊 Contribution Graph & Activity
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheDonDev&theme=dracula&hide_border=true&hide_title=false)
+### 📈 Contribution Activity Over Time
 
-> **🎯 Your contribution graph updates daily! This visualizes your GitHub activity over time.**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheDonDev&theme=dracula&hide_border=true&show_icons=true" alt="GitHub Activity Graph" style="max-width: 100%; height: auto; border-radius: 10px;" />
+
+### Alternative View
+
+<img src="https://github-api-readme-dark.vercel.app/api/top-langs/?username=TheDonDev&show_icons=true&hide_progress=false&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000&layout=compact" alt="Contribution Stats" width="100%" />
+
+> **🎯 Check the [GitHub contributions page](https://github.com/TheDonDev) to see your full activity graph and contribution history!**
 
 </div>
 
