@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31,42&height=220&section=header&text=Hi%20👋,%20I'm%20Donald%20Mwanga%20Makori&fontSize=38&fontColor=fff" width="100%" alt="Header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31,42&height=220&section=header&text=Hi%20👋,%20I'm%20Donald%20Mwanga%20Makori&fontSize=38&fontColor=ffffff" width="100%" alt="Header" />
 
 ### ⚡ Software Engineer • Developer • Social Entrepreneur
 📍 **Nairobi, Kenya** 🇰🇪
@@ -9,7 +9,7 @@
 ---
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Scalable+Software;Engineering+Cloud+Solutions;Creating+Impactful+Tech+Content" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Scalable+Software;Eng" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -54,7 +54,7 @@
 <div align="center">
 
   <a href="https://github.com/TheDonDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="Donald Mwanga's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
   </a>
 
   <a href="https://github.com/TheDonDev">
@@ -64,7 +64,7 @@
   <br /><br />
 
   <a href="https://github.com/TheDonDev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDonDev&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=html,css&cache_seconds=1800" alt="Top programming languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDonDev&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=html,css&cache_seconds=1800" alt="Top languages" />
   </a>
 
 </div>
@@ -84,11 +84,9 @@
 
 <div align="center">
 
-<img src="https://api.quotable.io/random?format=text&minLength=100" alt="Dev Quote" width="500" />
-
-<br/><br/>
-
 > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
+
+**💡 Pro Tip:** Refresh this page to see a new random quote!
 
 <br/><br/>
 
@@ -100,34 +98,24 @@
 
 <div align="center">
 
-<details open>
+<details>
   <summary style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: bold; font-size: 16px; transition: all 0.3s ease;">
     <span style="display: flex; align-items: center; gap: 8px; justify-content: center;">
-      🔥 <span id="meme-toggle-text">Show Me a Meme</span>
+      🔥 Show Me a Meme
     </span>
   </summary>
   
   <br/>
   
-  <div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 20px; border-radius: 8px; margin: 15px auto; max-width: 500px; border: 2px solid #667eea;">
-    <img src="https://raw.githubusercontent.com/joshwcomeau/giscus/main/public/meme.gif" alt="Dev Meme" width="100%" style="border-radius: 6px; display: block;" />
+  <div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 20px; border-radius: 8px; margin: 15px auto; max-width: 500px; border: 2px solid rgba(102, 126, 234, 0.3);">
+    <img src="https://i.imgflip.com/1osActions.jpg" alt="Dev Meme" width="100%" style="border-radius: 6px; display: block;" />
   </div>
   
 </details>
 
-<script>
-  // Toggle text on click (for modern browsers)
-  document.querySelectorAll('details').forEach(detail => {
-    detail.addEventListener('toggle', () => {
-      const text = document.getElementById('meme-toggle-text');
-      if (detail.open) {
-        text.textContent = 'Hide Meme 😄';
-      } else {
-        text.textContent = 'Show Me a Meme';
-      }
-    });
-  });
-</script>
+<br/>
+
+**💻 Fun Fact:** Dev memes keep us sane during debugging sessions!
 
 </div>
 
