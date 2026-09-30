@@ -18,7 +18,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@TheDon__Dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheDon_Dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Donald%20Mwanga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donald-mwanga-4bb5abba)
 [![YouTube](https://img.shields.io/badge/YouTube-@thadon_100-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thadon_100)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donaldmwanga33@gmail.com)
 
 </div>
 
@@ -86,7 +86,7 @@
 <div align="center">
 
 ### YouTube Videos
-🎥 **Check out my latest content** on [YouTube @thadon_100](https://www.youtube.com/@thadon_10)
+🎥 **Check out my latest content** on [YouTube @thadon_100](https://www.youtube.com/@thadon_100)
 
 Topics covered:
 - Web development tutorials
@@ -191,7 +191,9 @@ Topics covered:
 
 <div align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TheDonDev&theme=dracula&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheDonDev&theme=dracula&hide_border=true&hide_title=false)
+
+> **🎯 Your contribution graph updates daily! This visualizes your GitHub activity over time.**
 
 </div>
 
@@ -228,7 +230,7 @@ I'm always excited to collaborate on innovative projects, discuss software engin
 <br/><br/>
 
 ### 💌 Get in Touch
-- 📧 Email: [donaldmwanga33@gmail.com](donaldmwanga33@gmail.com)
+- 📧 Email: [donaldmwanga33@gmail.com](mailto:donaldmwanga33@gmail.com)
 - 🌐 Portfolio: [donaldmwangamakori.netlify.app](https://donaldmwangamakori.netlify.app/)
 - 💼 Open to opportunities in Web Development, Cloud Engineering, and Open Source
 
