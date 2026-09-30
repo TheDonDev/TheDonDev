@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Website-thedondev.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://thedondev.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Website-thedondev.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://donaldmwangamakori.netlify.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-@TheDon__Dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheDon_Dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Donald%20Mwanga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donald-mwanga-4bb5abba)
 [![YouTube](https://img.shields.io/badge/YouTube-@thadon_100-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thadon_100)
@@ -29,7 +29,7 @@
 - 🔭 **Currently working on**: Scalable web architectures and modern web software
 - 🤖 **Specialization**: Full-Stack Development, Cloud Solutions, and Open Source
 - 👯 **Looking to collaborate on**: Web applications, open-source tools, and innovative tech projects
-- 👨‍💻 **Portfolio**: [thedondev.netlify.app](https://thedondev.netlify.app/)
+- 👨‍💻 **Portfolio**: [donaldmwangamakori.netlify.app](https://donaldmwangamakori.netlify.app/contact)
 - 🎓 **Learning**: Advanced system design and cloud infrastructure
 - ⚡ **Fun Fact**: *"Code is like humor. When you have to explain it, it's bad."* — Building solutions that speak for themselves
 
@@ -86,7 +86,7 @@
 <div align="center">
 
 ### YouTube Videos
-🎥 **Check out my latest content** on [YouTube @thadon_100](https://www.youtube.com/@thadon_100)
+🎥 **Check out my latest content** on [YouTube @thadon_100](https://www.youtube.com/@thadon_10)
 
 Topics covered:
 - Web development tutorials
@@ -228,8 +228,8 @@ I'm always excited to collaborate on innovative projects, discuss software engin
 <br/><br/>
 
 ### 💌 Get in Touch
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Portfolio: [thedondev.netlify.app](https://thedondev.netlify.app/)
+- 📧 Email: [donaldmwanga33@gmail.com](donaldmwanga33@gmail.com)
+- 🌐 Portfolio: [donaldmwangamakori.netlify.app](https://donaldmwangamakori.netlify.app/)
 - 💼 Open to opportunities in Web Development, Cloud Engineering, and Open Source
 
 </div>
