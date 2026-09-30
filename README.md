@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31,42&height=220&section=header&text=Hi%20👋,%20I'm%20Donald%20Mwanga%20Makori&fontSize=38&fontColor=fff" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31,42&height=220&section=header&text=Hi%20👋,%20I'm%20Donald%20Mwanga%20Makori&fontSize=38&fontColor=fff" width="100%" alt="Header">
 
 ### ⚡ Software Engineer • Developer • Social Entrepreneur
 📍 **Nairobi, Kenya** 🇰🇪
@@ -9,7 +9,7 @@
 ---
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Scalable+Software;Engineering+Tomorrow's+Solutions;Full-Stack+Developer;Cloud+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Scalable+Software;Engineering+Cloud+Solutions;Creating+Impactful+Tech+Content" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -54,7 +54,7 @@
 <div align="center">
 
   <a href="https://github.com/TheDonDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="Donald Mwanga's GitHub Stats" />
   </a>
 
   <a href="https://github.com/TheDonDev">
@@ -96,6 +96,7 @@
   <summary><b>🔥 Click for a Random Dev Meme</b></summary>
   <br/>
   <img src="https://raw.githubusercontent.com/joshwcomeau/giscus/main/public/meme.gif" alt="Dev Meme" width="400" />
+  <br/>
 </details>
 
 </div>
