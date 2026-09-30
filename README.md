@@ -9,7 +9,7 @@
 ---
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Scalable+Software;Eng" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Scalable+Software;Creating+Impact+Through+Code" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -36,7 +36,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheDonDev&theme=dracula&column=6&margin-w=15&margin-h=15" alt="TheDonDev Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TheDonDev&theme=dracula&column=6&margin-w=15&margin-h=15&no-frame=true" alt="TheDonDev Trophies" />
 </div>
 
 ---
@@ -54,17 +54,17 @@
 <div align="center">
 
   <a href="https://github.com/TheDonDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=0" height="180" alt="GitHub Stats" />
   </a>
 
   <a href="https://github.com/TheDonDev">
-    <img src="https://streak-stats.demolab.com?user=TheDonDev&theme=dracula&hide_border=true&cache_seconds=1800" height="180" alt="Donald Mwanga's GitHub contribution streak" />
+    <img src="https://streak-stats.demolab.com?user=TheDonDev&theme=dracula&hide_border=true&cache_seconds=0" height="180" alt="Donald Mwanga's GitHub contribution streak" />
   </a>
 
   <br /><br />
 
   <a href="https://github.com/TheDonDev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDonDev&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=html,css&cache_seconds=1800" alt="Top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDonDev&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=html,css&cache_seconds=0" alt="Top languages" />
   </a>
 
 </div>
@@ -84,7 +84,9 @@
 
 <div align="center">
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
+<img src="https://api.quotable.io/random?format=text" alt="Random dev quote" width="500" />
+
+<br/><br/>
 
 **💡 Pro Tip:** Refresh this page to see a new random quote!
 
@@ -98,17 +100,18 @@
 
 <div align="center">
 
-<details>
-  <summary style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: bold; font-size: 16px; transition: all 0.3s ease;">
+<details open>
+  <summary style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: bold; font-size: 16px; margin: 10px auto; transition: all 0.3s ease; list-style: none;">
     <span style="display: flex; align-items: center; gap: 8px; justify-content: center;">
-      🔥 Show Me a Meme
+      🔥 Click to Show Me a Meme
     </span>
   </summary>
   
   <br/>
   
-  <div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 20px; border-radius: 8px; margin: 15px auto; max-width: 500px; border: 2px solid rgba(102, 126, 234, 0.3);">
-    <img src="https://i.imgflip.com/1osActions.jpg" alt="Dev Meme" width="100%" style="border-radius: 6px; display: block;" />
+  <div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 20px; border-radius: 8px; margin: 15px auto; max-width: 600px; border: 2px solid rgba(102, 126, 234, 0.3);">
+    <img src="https://api.imgflip.com/get_memes" alt="Dev Meme" width="100%" style="border-radius: 6px; display: block;" onerror="this.src='https://i.imgflip.com/1osActions.jpg'" />
+    <p style="color: #667eea; margin-top: 10px; font-style: italic;">🎲 <strong>Random Meme</strong> - Refresh to see another!</p>
   </div>
   
 </details>
