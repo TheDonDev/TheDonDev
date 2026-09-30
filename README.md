@@ -193,21 +193,18 @@ Topics covered:
 
 ### 🎯 View Your Contributions
 
-Your GitHub contributions and activity graph are best viewed on your GitHub profile:
+GitHub contributions and activity graph are best viewed on  GitHub profile:
 
 [![View GitHub Contributions](https://img.shields.io/badge/View%20Contributions-GitHub%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/TheDonDev?tab=contributions)
 
 **📈 Contribution Stats:**
-- 🟩 Check your contribution graph on your profile page
+- 🟩 Check contribution graph on profile page
 - 📊 View daily, weekly, and yearly activity
-- 🏆 Track your streak and milestones
-- 💚 See your public and private contributions
+- 🏆 Track streak and milestones
+- 💚 See public and private contributions
 
-### Alternative Stats View
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats Summary" width="100%" />
-
-> **Pro Tip:** For the most accurate and real-time contribution graph, visit your [GitHub profile](https://github.com/TheDonDev) directly. The contribution heat map shows all your activity over the past year!
+> **Pro Tip:** For the most accurate and real-time contribution graph, visit  [GitHub profile](https://github.com/TheDonDev) directly. The contribution heat map shows all your activity over the past year!
 
 </div>
 
