@@ -9,7 +9,7 @@
 ---
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Scalable+Software;Creating+Impact+Through+Code;Full-Stack+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Scalable+Software;Creative+Full-Stack+Developer;Cloud+Solutions+Architect;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -38,7 +38,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheDonDev&theme=dracula&column=4&margin-w=15&margin-h=15&no-frame=true&cache_seconds=86400" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TheDonDev&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" width="100%" />
 </div>
 
 ---
@@ -102,65 +102,64 @@ Topics covered:
 
 <div align="center">
 
-> ### *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
-> **— Martin Fowler**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
-<br/>
-
-> ### *"The best code is the code that's never written."*
-> **— Steve Jobs**
-
-<br/>
-
-> ### *"First, solve the problem. Then, write the code."*
-> **— John Johnson**
-
-<br/>
-
-**💡 Pro Tip:** These timeless quotes remind us to write clean, maintainable, and human-readable code!
+**💡 Refresh to see a new random quote every time!**
 
 </div>
 
 ---
 
-## 🎭 Developer Memes
+## 🎭 Developer Memes & Jokes
 
 <div align="center">
 
 <details open>
-  <summary style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: bold; font-size: 16px; margin: 10px auto; list-style: none;">
+  <summary style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: 600; font-size: 16px;">
     <span style="display: flex; align-items: center; gap: 8px; justify-content: center;">
-      🔥 Click to Reveal a Dev Meme
+      🔥 Random Dev Meme #1
     </span>
   </summary>
   
   <br />
   
-  <div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 20px; border-radius: 8px; margin: 15px auto; max-width: 600px; border: 2px solid rgba(102, 126, 234, 0.3);">
+  <div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 20px; border-radius: 8px; margin: 15px auto; max-width: 600px; border: 2px solid #667eea;">
     
-  ### Meme #1: It Works on My Machine
-  <img src="https://i.imgflip.com/1osActions.jpg" alt="It works on my machine" width="100%" style="border-radius: 6px; margin: 10px 0;" />
+  <img src="https://meme-api.com/gimme/ProgrammerHumor" alt="Random Meme 1" width="100%" style="border-radius: 6px; margin: 10px 0;" />
+  
+  *Click "🔄 Refresh" or reload the page to load a new random meme!*
   
   </div>
   
 </details>
 
 <details>
-  <summary style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #764ba2 0%, #667eea 100%); color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: bold; font-size: 16px; margin: 10px auto; list-style: none;">
+  <summary style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #764ba2 0%, #667eea 100%); color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: 600; font-size: 16px; margin-top: 10px;">
     <span style="display: flex; align-items: center; gap: 8px; justify-content: center;">
-      😂 More Memes
+      😂 More Hilarious Dev Memes
     </span>
   </summary>
   
   <br />
   
-  <div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 20px; border-radius: 8px; margin: 15px auto; max-width: 600px; border: 2px solid rgba(102, 126, 234, 0.3);">
+  <div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 20px; border-radius: 8px; margin: 15px auto; max-width: 600px; border: 2px solid #667eea;">
     
-  ### Meme #2: When Production Breaks
-  <img src="https://i.imgflip.com/30b1gx.jpg" alt="When production breaks" width="100%" style="border-radius: 6px; margin: 10px 0;" />
+  ### 🎪 Comedy Gold Collection
   
-  ### Meme #3: Console.log for Debugging
-  <img src="https://i.imgflip.com/4t0m5.jpg" alt="Console log debugging" width="100%" style="border-radius: 6px; margin: 10px 0;" />
+  **Meme #2: When Production Breaks**
+  <img src="https://meme-api.com/gimme/webdev" alt="Production Broken Meme" width="100%" style="border-radius: 6px; margin: 10px 0;" />
+  
+  <br/>
+  
+  **Meme #3: Console.log Debugging**
+  <img src="https://meme-api.com/gimme/coding" alt="Console.log Meme" width="100%" style="border-radius: 6px; margin: 10px 0;" />
+  
+  <br/>
+  
+  **Meme #4: The Classic**
+  <img src="https://meme-api.com/gimme/Cringetopia" alt="Classic Dev Meme" width="100%" style="border-radius: 6px; margin: 10px 0;" />
+  
+  *Each refresh loads a brand new collection of memes!*
   
   </div>
   
@@ -168,7 +167,7 @@ Topics covered:
 
 <br />
 
-**💻 Fun Fact:** Dev memes are the most efficient form of therapy during debugging marathons! 😄
+**💻 Pro Tip:** These memes are dynamically loaded! Refresh your browser or revisit this page to see a new batch of programmer humor. Dev memes are the most efficient form of therapy during debugging marathons! 😄
 
 </div>
 
