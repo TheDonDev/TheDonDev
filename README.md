@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Website-thedondev.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://donaldmwangamakori.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Website-donaldmwangamakori.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://donaldmwangamakori.netlify.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-@TheDon__Dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheDon_Dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Donald%20Mwanga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donald-mwanga-4bb5abba)
 [![YouTube](https://img.shields.io/badge/YouTube-@thadon_100-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thadon_100)
