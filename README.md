@@ -187,19 +187,27 @@ Topics covered:
 
 ---
 
-## 📊 Contribution Graph & Activity
+## 📊 GitHub Contributions
 
 <div align="center">
 
-### 📈 Contribution Activity Over Time
+### 🎯 View Your Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheDonDev&theme=dracula&hide_border=true&show_icons=true" alt="GitHub Activity Graph" style="max-width: 100%; height: auto; border-radius: 10px;" />
+Your GitHub contributions and activity graph are best viewed on your GitHub profile:
 
-### Alternative View
+[![View GitHub Contributions](https://img.shields.io/badge/View%20Contributions-GitHub%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/TheDonDev?tab=contributions)
 
-<img src="https://github-api-readme-dark.vercel.app/api/top-langs/?username=TheDonDev&show_icons=true&hide_progress=false&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000&layout=compact" alt="Contribution Stats" width="100%" />
+**📈 Contribution Stats:**
+- 🟩 Check your contribution graph on your profile page
+- 📊 View daily, weekly, and yearly activity
+- 🏆 Track your streak and milestones
+- 💚 See your public and private contributions
 
-> **🎯 Check the [GitHub contributions page](https://github.com/TheDonDev) to see your full activity graph and contribution history!**
+### Alternative Stats View
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats Summary" width="100%" />
+
+> **Pro Tip:** For the most accurate and real-time contribution graph, visit your [GitHub profile](https://github.com/TheDonDev) directly. The contribution heat map shows all your activity over the past year!
 
 </div>
 
