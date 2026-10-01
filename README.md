@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31,42&height=220&section=header&text=Hi%20👋,%20I'm%20Donald%20Mwanga%20Makori&fontSize=38&fontColor=ffffff" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31,42&height=220&section=header&text=Hi%20👋,%20I'm%20Donald%20Mwanga%20Makori&fontSize=38&fontColor=fff" width="100%" alt="Header" />
 
 ### ⚡ Software Engineer • Developer • Social Entrepreneur
 📍 **Nairobi, Kenya** 🇰🇪
@@ -9,7 +9,7 @@
 ---
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Scalable+Software;Creative+Full-Stack+Developer;Cloud+Solutions+Architect;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Scalable+Software;Creating+Innovative+Solutions;Crafting+Quality+Code" alt="Typing" />
 </a>
 
 <br/><br/>
@@ -48,13 +48,13 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&perline=5" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&perline=6" alt="Languages" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&perline=4" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,dart,flutter&perline=6" alt="Frontend" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgresql&perline=4" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,postgresql,mongodb&perline=6" alt="Backend" />
 
 ### Tools & DevOps
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux&perline=5" alt="Tools" />
@@ -115,7 +115,7 @@ Topics covered:
 <div align="center">
 
 <details open>
-  <summary style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: 600; font-size: 16px;">
+  <summary style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: bold;">
     <span style="display: flex; align-items: center; gap: 8px; justify-content: center;">
       🔥 Random Dev Meme #1
     </span>
@@ -134,7 +134,7 @@ Topics covered:
 </details>
 
 <details>
-  <summary style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #764ba2 0%, #667eea 100%); color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: 600; font-size: 16px; margin-top: 10px;">
+  <summary style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #764ba2 0%, #667eea 100%); color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: bold;">
     <span style="display: flex; align-items: center; gap: 8px; justify-content: center;">
       😂 More Hilarious Dev Memes
     </span>
@@ -167,7 +167,7 @@ Topics covered:
 
 <br />
 
-**💻 Pro Tip:** These memes are dynamically loaded! Refresh your browser or revisit this page to see a new batch of programmer humor. Dev memes are the most efficient form of therapy during debugging marathons! 😄
+**💻 Pro Tip:** These memes are dynamically loaded! Refresh your browser or revisit this page to see a new batch of programmer humor. Dev memes are the most efficient form of therapy during debugging sessions!
 
 </div>
 
@@ -180,8 +180,8 @@ Topics covered:
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
 | 🌐 **Portfolio** | Personal portfolio showcasing my work | Next.js, Tailwind CSS |
-| 🛠️ **Open Source** | Contributed to multiple open-source projects | JavaScript, Python |
-| 📱 **Full-Stack Apps** | End-to-end web applications | MERN Stack |
+| 🛠️ **Open Source** | Contributed to multiple open-source projects | JavaScript, Python, Java |
+| 📱 **Full-Stack Apps** | End-to-end web applications | MERN Stack, Flutter, Node.js |
 
 </div>
 
@@ -193,7 +193,7 @@ Topics covered:
 
 ### 🎯 View Your Contributions
 
-GitHub contributions and activity graph are best viewed on  GitHub profile:
+GitHub contributions and activity graph are best viewed on GitHub profile:
 
 [![View GitHub Contributions](https://img.shields.io/badge/View%20Contributions-GitHub%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/TheDonDev?tab=contributions)
 
@@ -204,7 +204,7 @@ GitHub contributions and activity graph are best viewed on  GitHub profile:
 - 💚 See public and private contributions
 
 
-> **Pro Tip:** For the most accurate and real-time contribution graph, visit  [GitHub profile](https://github.com/TheDonDev) directly. The contribution heat map shows all your activity over the past year!
+> **Pro Tip:** For the most accurate and real-time contribution graph, visit [GitHub profile](https://github.com/TheDonDev) directly. The contribution heat map shows all your activity over the past year!
 
 </div>
 
