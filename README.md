@@ -191,7 +191,7 @@ Topics covered:
 
 <div align="center">
 
-### 🎯 View Your Contributions
+### 🎯 View Contributions
 
 GitHub contributions and activity graph are best viewed on GitHub profile:
 
