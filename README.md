@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31,42&height=220&section=header&text=Hi%20👋,%20I'm%20Donald%20Mwanga%20Makori&fontSize=38&fontColor=fff" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31,42&height=220&section=header&text=Hi%20👋,%20I'm%20Donald%20Mwanga%20Makori&fontSize=38&fontCol[...]
 
 ### ⚡ Software Engineer • Developer • Social Entrepreneur
 📍 **Nairobi, Kenya** 🇰🇪
@@ -9,12 +9,12 @@
 ---
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Scalable+Software;Creating+Innovative+Solutions;Crafting+Quality+Code" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Scalable+Software;Cre[...]
 </a>
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Website-donaldmwangamakori.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://donaldmwangamakori.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Website-thedondev.github.io-000000?style=for-the-badge&logo=github&logoColor=white)](https://thedondev.github.io/)
 [![Twitter](https://img.shields.io/badge/Twitter-@TheDon__Dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheDon_Dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Donald%20Mwanga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donald-mwanga-4bb5abba)
 [![YouTube](https://img.shields.io/badge/YouTube-@thadon_100-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thadon_100)
@@ -29,7 +29,7 @@
 - 🔭 **Currently working on**: Scalable web architectures and modern web software
 - 🤖 **Specialization**: Full-Stack Development, Cloud Solutions, and Open Source
 - 👯 **Looking to collaborate on**: Web applications, open-source tools, and innovative tech projects
-- 👨‍💻 **Portfolio**: [donaldmwangamakori.netlify.app](https://donaldmwangamakori.netlify.app/contact)
+- 👨‍💻 **Portfolio**: [thedondev.github.io](https://thedondev.github.io/)
 - 🎓 **Learning**: Advanced system design and cloud infrastructure
 - ⚡ **Fun Fact**: *"Code is like humor. When you have to explain it, it's bad."* — Building solutions that speak for themselves
 
@@ -123,7 +123,7 @@ Topics covered:
   
   <br />
   
-  <div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 20px; border-radius: 8px; margin: 15px auto; max-width: 600px; border: 2px solid #667eea;">
+  <div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 20px; border-radius: 8px; margin: 15px auto; max-width: 600px; border: 2px solid rgba(255,255,255,0.1);">
     
   <img src="https://meme-api.com/gimme/ProgrammerHumor" alt="Random Meme 1" width="100%" style="border-radius: 6px; margin: 10px 0;" />
   
@@ -142,7 +142,7 @@ Topics covered:
   
   <br />
   
-  <div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 20px; border-radius: 8px; margin: 15px auto; max-width: 600px; border: 2px solid #667eea;">
+  <div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 20px; border-radius: 8px; margin: 15px auto; max-width: 600px; border: 2px solid rgba(255,255,255,0.1);">
     
   ### 🎪 Comedy Gold Collection
   
@@ -167,7 +167,7 @@ Topics covered:
 
 <br />
 
-**💻 Pro Tip:** These memes are dynamically loaded! Refresh your browser or revisit this page to see a new batch of programmer humor. Dev memes are the most efficient form of therapy during debugging sessions!
+**💻 Pro Tip:** These memes are dynamically loaded! Refresh your browser or revisit this page to see a new batch of programmer humor. Dev memes are the most efficient form of therapy during debugging chaos.
 
 </div>
 
@@ -204,7 +204,7 @@ GitHub contributions and activity graph are best viewed on GitHub profile:
 - 💚 See public and private contributions
 
 
-> **Pro Tip:** For the most accurate and real-time contribution graph, visit [GitHub profile](https://github.com/TheDonDev) directly. The contribution heat map shows all your activity over the past year!
+> **Pro Tip:** For the most accurate and real-time contribution graph, visit [GitHub profile](https://github.com/TheDonDev) directly. The contribution heat map shows all your activity over the past year.
 
 </div>
 
@@ -242,7 +242,7 @@ I'm always excited to collaborate on innovative projects, discuss software engin
 
 ### 💌 Get in Touch
 - 📧 Email: [donaldmwanga33@gmail.com](mailto:donaldmwanga33@gmail.com)
-- 🌐 Portfolio: [donaldmwangamakori.netlify.app](https://donaldmwangamakori.netlify.app/)
+- 🌐 Portfolio: [thedondev.github.io](https://thedondev.github.io/)
 - 💼 Open to opportunities in Web Development, Cloud Engineering, and Open Source
 
 </div>
